@@ -4,7 +4,7 @@ A simple trading backtesting project with a Streamlit dashboard.
 Runs in **Local mode** (recommended for Streamlit Cloud) and optionally supports **API mode** (FastAPI).
 
 ## Live Demo
-- Streamlit App: [<PASTE_YOUR_STREAMLIT_URL_HERE>](https://trading-sim-9gwdm9jspbewurgisgvirf.streamlit.app/)
+- Streamlit App: https://trading-sim-9gwdm9jspbewurgisgvirf.streamlit.app 
 - GitHub Repo: https://github.com/rafianahmed/trading-sim
 
 ## Features
@@ -29,4 +29,5 @@ cd "$env:USERPROFILE\Desktop\Trading-sim"
 python -m venv .venv
 .venv\Scripts\Activate.ps1
 pip install -r requirements.txt
+
 
